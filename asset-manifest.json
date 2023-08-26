@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/clicktory-road/static/css/main.ae71d505.css",
+    "main.js": "/clicktory-road/static/js/main.3ae26ba9.js",
+    "static/js/787.bda95b39.chunk.js": "/clicktory-road/static/js/787.bda95b39.chunk.js",
+    "static/media/logo.svg": "/clicktory-road/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/clicktory-road/index.html",
+    "main.ae71d505.css.map": "/clicktory-road/static/css/main.ae71d505.css.map",
+    "main.3ae26ba9.js.map": "/clicktory-road/static/js/main.3ae26ba9.js.map",
+    "787.bda95b39.chunk.js.map": "/clicktory-road/static/js/787.bda95b39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae71d505.css",
+    "static/js/main.3ae26ba9.js"
+  ]
+}
